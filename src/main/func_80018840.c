@@ -1,0 +1,42 @@
+extern s32 D_002FD600;
+extern s32 D_80000318;
+extern s32 D_80018A60;
+extern s32 D_8001CA6C;
+extern s16 D_80109C40;
+extern s32 D_80115180;
+extern s16 D_80115188;
+extern s16 D_8011518A;
+extern s32 D_8011518C;
+extern s32 D_80115190;
+extern s32 D_80115194;
+extern s32 D_80115198;
+extern s32 D_8011519C;
+extern s32 D_801151A0;
+extern s32 D_801151A4;
+extern s32 D_801151A8;
+extern s32 D_801151AC;
+extern s32 D_801151B0;
+extern s32 D_8011525C;
+extern s32 D_802FD600;
+s32 func_8003FE00();
+s32 func_800409A0();
+s32 func_800409C8();
+
+void f(void) {
+    D_80109C40 = 0;
+    D_80115188 = 3;
+    D_8011518A = 0;
+    D_8011518C = 0;
+    D_80115190 = (s32)&D_80018A60;
+    D_80115194 = (s32)&D_8001CA6C;
+    D_80115198 = 0;
+    D_8011519C = 0;
+    D_801151A0 = 0;
+    D_801151A8 = 0;
+    D_801151A4 = 0;
+    D_801151AC = 0;
+    D_801151B0 = 2;
+    func_8003FE00(((s32)&D_80115180), D_8011525C, 3, 0);
+    func_800409A0();
+    func_800409C8(((s32)&D_802FD600), (D_80000318 - ((s32)&D_002FD600)));
+}

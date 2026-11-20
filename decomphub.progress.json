@@ -1,0 +1,39 @@
+{
+  "format": "decomphub.progress/v1",
+  "repository": "https://github.com/TheGh0stShip/Sesame-Street-Elmos-Letter-Adventure-N64",
+  "tracks": [
+    {
+      "id": "matching-code",
+      "label": "Matching decompiled C code",
+      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. All catalogued executable functions were independently rebuilt word-exact in verification run v17. Assembly-assisted sources are complete but excluded from ordinary-C credit. Asset regeneration is reported separately.",
+      "measurement": {
+        "kind": "ratio",
+        "completed": 428252,
+        "total": 438160,
+        "unit": "bytes"
+      }
+    },
+    {
+      "id": "matching-functions",
+      "label": "C-decompiled functions",
+      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. All catalogued executable functions were independently rebuilt word-exact in verification run v17. Assembly-assisted sources are complete but excluded from ordinary-C credit. Asset regeneration is reported separately.",
+      "measurement": {
+        "kind": "ratio",
+        "completed": 911,
+        "total": 964,
+        "unit": "functions"
+      }
+    },
+    {
+      "id": "source-complete-code",
+      "label": "Code reproduced from verified source",
+      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. All catalogued executable functions were independently rebuilt word-exact in verification run v17. Assembly-assisted sources are complete but excluded from ordinary-C credit. Asset regeneration is reported separately.",
+      "measurement": {
+        "kind": "ratio",
+        "completed": 438160,
+        "total": 438160,
+        "unit": "bytes"
+      }
+    }
+  ]
+}

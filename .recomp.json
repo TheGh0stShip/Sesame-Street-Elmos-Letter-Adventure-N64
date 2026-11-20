@@ -1,0 +1,37 @@
+{
+  "$schema": "https://recomp.fyi/schema/v1.json",
+  "game": "Sesame Street: Elmo's Letter Adventure",
+  "system": "N64",
+  "type": "decomp",
+  "original": {
+    "region": "USA",
+    "revision": "Rev 0",
+    "serial": "NLTE",
+    "sha1": "97777ca06f4e8aff8f1e95033cc8d3833be40f76"
+  },
+  "project": "Sesame Street: Elmo's Letter Adventure (N64) matching decompilation",
+  "status": "complete",
+  "toolchain": [
+    "N64 Decomp Kit",
+    "KMC GCC 2.7.2",
+    "SGI IDO 7.1"
+  ],
+  "approach": "Matching decompilation with independently replayed word-exact source and complete ROM-byte classification.",
+  "notes": "All 964 catalogued functions and 438160 executable bytes reproduce from source. Asset regeneration remains separately measured.",
+  "maintainers": [
+    {
+      "name": "TheGh0stShip",
+      "link": "https://github.com/TheGh0stShip"
+    }
+  ],
+  "links": [
+    {
+      "label": "Repository",
+      "url": "https://github.com/TheGh0stShip/Sesame-Street-Elmos-Letter-Adventure-N64"
+    }
+  ],
+  "tags": [
+    "matching",
+    "MIPS"
+  ]
+}
