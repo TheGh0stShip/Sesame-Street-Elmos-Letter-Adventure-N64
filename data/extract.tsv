@@ -1,0 +1,5 @@
+#name	kind	rom_offset	size	fmt	width	height
+D_8006D518	png	6E118	800	rgba16	32	32
+D_800707A8	png	713A8	1000	i4	64	128
+D_80071E60	png	72A60	300	i1	8	768
+D_80072160	png	72D60	1000	i8	64	64

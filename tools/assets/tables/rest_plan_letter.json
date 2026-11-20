@@ -1,0 +1,574 @@
+[
+{
+"where": "rom",
+"start": 1311816,
+"end": 1311824,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1320884,
+"end": 1320888,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1328140,
+"end": 1328144,
+"kind": "r1",
+"owner": "r1",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1337848,
+"end": 1337852,
+"kind": "zero",
+"owner": "gfx",
+"cls": "model_vtxmap"
+},
+{
+"where": "rom",
+"start": 1337852,
+"end": 1337856,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1348028,
+"end": 1348032,
+"kind": "zero",
+"owner": "gfx",
+"cls": "model_vtxmap"
+},
+{
+"where": "rom",
+"start": 1384516,
+"end": 1384528,
+"kind": "r1",
+"owner": "r1",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1411972,
+"end": 1411976,
+"kind": "zero",
+"owner": "gfx",
+"cls": "model_vtxmap"
+},
+{
+"where": "rom",
+"start": 1412056,
+"end": 1412064,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1426840,
+"end": 1426848,
+"kind": "r1",
+"owner": "r1",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1441624,
+"end": 1441632,
+"kind": "r1",
+"owner": "r1",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1442652,
+"end": 1442656,
+"kind": "r1",
+"owner": "r1",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1482804,
+"end": 1482808,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1482888,
+"end": 1482896,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1510272,
+"end": 1510276,
+"kind": "zero",
+"owner": "gfx",
+"cls": "model_vtxmap"
+},
+{
+"where": "rom",
+"start": 1510276,
+"end": 1510280,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1636940,
+"end": 1636944,
+"kind": "zero",
+"owner": "gfx",
+"cls": "model_vtxmap"
+},
+{
+"where": "rom",
+"start": 1659752,
+"end": 1659760,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1666272,
+"end": 1666304,
+"kind": "r1",
+"owner": "r1",
+"cls": "palette"
+},
+{
+"where": "rom",
+"start": 1666304,
+"end": 1666816,
+"kind": "r1",
+"owner": "r1",
+"cls": "texture"
+},
+{
+"where": "rom",
+"start": 1689992,
+"end": 1690000,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1724892,
+"end": 1724896,
+"kind": "zero",
+"owner": "gfx",
+"cls": "model_vtxmap"
+},
+{
+"where": "rom",
+"start": 1734712,
+"end": 1734720,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1744648,
+"end": 1744656,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1753896,
+"end": 1753904,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1757544,
+"end": 1757552,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1767240,
+"end": 1767248,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1775416,
+"end": 1775424,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1794568,
+"end": 1794576,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1798296,
+"end": 1798304,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1828040,
+"end": 1828048,
+"kind": "zero",
+"owner": "gfx",
+"cls": "pad"
+},
+{
+"where": "rom",
+"start": 1831888,
+"end": 1832400,
+"kind": "r1",
+"owner": "r1",
+"cls": "vertex"
+},
+{
+"where": "rom",
+"start": 1832400,
+"end": 1832624,
+"kind": "dl",
+"owner": "packC",
+"cls": "dl"
+},
+{
+"where": "rom",
+"start": 1832624,
+"end": 1832648,
+"kind": "r1",
+"owner": "r1",
+"cls": "bbox"
+},
+{
+"where": "rom",
+"start": 1832648,
+"end": 1832688,
+"kind": "r1",
+"owner": "r1",
+"cls": "model_header"
+},
+{
+"where": "streetab.bif",
+"start": 169552,
+"end": 170576,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 4,
+"w": 64,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 172624,
+"end": 173648,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 173680,
+"end": 174192,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 4,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 197232,
+"end": 198256,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 202864,
+"end": 203888,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 205936,
+"end": 206960,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 207472,
+"end": 208496,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 209008,
+"end": 210032,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 210544,
+"end": 211568,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "streetab.bif",
+"start": 241424,
+"end": 241552,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 241680,
+"end": 241808,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 241808,
+"end": 241936,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 243472,
+"end": 243600,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 243856,
+"end": 243984,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 243984,
+"end": 244016,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 244112,
+"end": 244240,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 244240,
+"end": 244368,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 244368,
+"end": 244496,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "streetab.bif",
+"start": 244496,
+"end": 244624,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "chute.bif",
+"start": 141648,
+"end": 142672,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "chute.bif",
+"start": 149328,
+"end": 150352,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "chute.bif",
+"start": 150864,
+"end": 151888,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 8,
+"w": 32,
+"h": 32
+},
+{
+"where": "chute.bif",
+"start": 155984,
+"end": 156000,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "chute.bif",
+"start": 156112,
+"end": 156240,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "chute.bif",
+"start": 156752,
+"end": 156880,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "chute.bif",
+"start": 156880,
+"end": 157008,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "orchard.bif",
+"start": 103424,
+"end": 103936,
+"owner": "lvlE",
+"cls": "tex_image",
+"kind": "tex",
+"fmt": "CI",
+"bits": 4,
+"w": 32,
+"h": 32
+},
+{
+"where": "orchard.bif",
+"start": 126344,
+"end": 126472,
+"owner": "lvlE",
+"cls": "texload_dl",
+"kind": "dl"
+},
+{
+"where": "bonusabc.bif",
+"start": 0,
+"end": 24,
+"owner": "lvlF",
+"cls": "display_list",
+"kind": "dl"
+},
+{
+"where": "bonusabc.bif",
+"start": 24,
+"end": 48,
+"owner": "lvlF",
+"cls": "display_list",
+"kind": "dl"
+}
+]

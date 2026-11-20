@@ -5,10 +5,10 @@
     {
       "id": "matching-code",
       "label": "Matching decompiled C code",
-      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. All catalogued executable functions were independently rebuilt word-exact in verification run v17. Assembly-assisted sources are complete but excluded from ordinary-C credit. Asset regeneration is reported separately.",
+      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. Conventional matching-decompilation project: after one-time extraction, the build compiles, assembles, links and re-encodes without reading the base ROM, then reproduces its SHA-1. Original assembly and the single inline-assembly allocator workaround are source-complete but excluded from ordinary-C credit.",
       "measurement": {
         "kind": "ratio",
-        "completed": 428252,
+        "completed": 428444,
         "total": 438160,
         "unit": "bytes"
       }
@@ -16,7 +16,7 @@
     {
       "id": "matching-functions",
       "label": "C-decompiled functions",
-      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. All catalogued executable functions were independently rebuilt word-exact in verification run v17. Assembly-assisted sources are complete but excluded from ordinary-C credit. Asset regeneration is reported separately.",
+      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. Conventional matching-decompilation project: after one-time extraction, the build compiles, assembles, links and re-encodes without reading the base ROM, then reproduces its SHA-1. Original assembly and the single inline-assembly allocator workaround are source-complete but excluded from ordinary-C credit.",
       "measurement": {
         "kind": "ratio",
         "completed": 911,
@@ -27,7 +27,7 @@
     {
       "id": "source-complete-code",
       "label": "Code reproduced from verified source",
-      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. All catalogued executable functions were independently rebuilt word-exact in verification run v17. Assembly-assisted sources are complete but excluded from ordinary-C credit. Asset regeneration is reported separately.",
+      "scope": "USA ROM SHA-1 97777ca06f4e8aff8f1e95033cc8d3833be40f76. Conventional matching-decompilation project: after one-time extraction, the build compiles, assembles, links and re-encodes without reading the base ROM, then reproduces its SHA-1. Original assembly and the single inline-assembly allocator workaround are source-complete but excluded from ordinary-C credit.",
       "measurement": {
         "kind": "ratio",
         "completed": 438160,

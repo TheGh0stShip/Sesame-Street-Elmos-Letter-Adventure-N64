@@ -1,0 +1,33 @@
+{
+ "game": "letter",
+ "boot": {
+  "rom": "0x6BF90",
+  "rom_end": "0x6C060",
+  "size": 208,
+  "vram": "0x8006B390"
+ },
+ "gfx_text": {
+  "rom": "0x6C060",
+  "rom_end": "0x6D490",
+  "size": 5168,
+  "vram": "0x8006B460"
+ },
+ "gfx_data": {
+  "rom": "0x79600",
+  "rom_end": "0x79E00",
+  "size": 2048,
+  "vram": "0x80078A00"
+ },
+ "aud_text": {
+  "rom": "0x6D490",
+  "rom_end": "0x6E0E4",
+  "size": 3156,
+  "vram": "0x8006C890"
+ },
+ "aud_data": {
+  "rom": "0x79E00",
+  "rom_end": "0x7A0B0",
+  "size": 688,
+  "vram": "0x80079200"
+ }
+}
